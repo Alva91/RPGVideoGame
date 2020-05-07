@@ -1,0 +1,9 @@
+Healer character
+Builds up pain via healing
+More pain, less healing. 
+Pain is released via attacking. 
+More pain, more damage. 
+Main stat is health 
+Increases Seth's health. 
+Uses fists. 
+Use to heal characters and bosses that maybe use healing??

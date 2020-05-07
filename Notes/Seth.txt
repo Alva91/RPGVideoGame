@@ -1,0 +1,55 @@
+Dark unkempt hair, with long fringe that covers his eyes. 
+Wears a long coat that is too big for him and ragged clothes. 
+Has blue eyes. 
+Lean figure and average height. 
+Has a brand on his left shoulder marking him as property of the cult. 
+Due to being quite slim, able to fit into narrow areas and climb things. 
+Dexterity and crit are his main stats. 
+Upon becoming overcome with emotions, a dark entity takes over, death's sprit from the ritual. 
+Occasionally sees this version of himself in a mirror. 
+The dark version is all black like a shadow and moves twice as fast and deadly. 
+Mainly used for navigating the world and fighting weaker monsters. 
+Serves as the conduit between each spirit. 
+The main player character.
+Is quite weak at first but he gets bonuses from each spirit. 
+Maybe physical appearance alters as each spirit gets absorbed.
+Weapon of choice: Dual wield daggers
+Light easily movable armour.
+Mainly used to deal lots of damage quickly - against monsters with regen
+
+Variables:
+
+Health
+Strength
+Dexterity
+Defense
+Speed
+Magic
+Experience
+Level
+
+AttackDamage
+CriticalChance
+Weapon
+Armor
+NextLevelExperience
+
+Functions:
+
+CalculateDamage
+CalculateCritical
+LevelUp
+PowerUp
+SummonWarrior
+Update
+Attack
+
+Blueprint:
+
+Movement
+Store Textures
+Store references to other characters
+Animations
+Model
+Weapon
+Armour

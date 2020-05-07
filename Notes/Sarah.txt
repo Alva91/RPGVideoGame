@@ -1,0 +1,4 @@
+Defense, tank style hero
+Uses sword and shield
+Increases seth's defense
+Used for bosses that deal heavy damage or burst damage

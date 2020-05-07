@@ -1,0 +1,6 @@
+Mage character
+Uses health to cast spells (blood magic)
+Grants greater immunity to magic for Seth
+Magic is his stat
+Useful against monsters that are immune to physical damage
+Weapon is a staff
